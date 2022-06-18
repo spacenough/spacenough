@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Hibernate**
 
-- 📫 How to reach me **discord; GloboGlob#8726**
+- 📫 How to reach me **discord: Mejbi#8726**
 
 - ⚡ Fun fact **i'm 16yo**
 
