@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kamil</h1>
 <h3 align="center">A passionate backend developer from Poland</h3>
 
-- 🌱 I’m currently learning **Hibernate**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **discord: Mejbi#8726**
 
