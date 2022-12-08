@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 📫 How to reach me **discord: Mejbi#8726**
+- 📫 How to reach me discord: **Mejbi#0169**
 
 <p align="left">
 </p>
